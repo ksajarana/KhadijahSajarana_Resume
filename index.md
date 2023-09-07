@@ -69,7 +69,7 @@ Results-driven data analyst with a strong passion for digital transformation and
 
 *A Bali travel and tour website.*
 - Design and implement the business development plan, increasing revenue by 110%
-- Built the company’s [website](www.baliwithbabo.com), designed [business and promotional materials](https://ko-fi.com/s/1d9bd81c3b)
+- Built the company’s [website](https://www.baliwithbabo.com), designed [business and promotional materials](https://ko-fi.com/s/1d9bd81c3b)
 - Lead the company's effort to expand the target market Internationally, resulting in 1000+ new engagements in the first 3 months 
 
 ## Education
