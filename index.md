@@ -49,6 +49,8 @@ Results-driven data analyst with a strong passion for digital transformation and
 - Sales Forecasting Model for Improved Restaurants’ Revenue Management. Engaged with stakeholders for effective data management and alignment of project objectives with organizational goals
 - Conducted sentiment analysis of customer reviews, resulting in a 35% increase in satisfaction scores
 
+
+
 **DATA ANALYST / JUNIOR CONSULTANT** - *Groovenauts Inc., Japan* `Oct 2019 - Nov 2021`
 
 *Recruited to this role to be in charge of dealing with International clients and training internal staff on BI Tools*
@@ -62,7 +64,7 @@ Results-driven data analyst with a strong passion for digital transformation and
 
 ## Personal Projects
 
-**BALI WITH BABO**
+**BALI WITH BABO** `February 2023 - current`
 
 *A Bali travel and tour website.*
 - Design and implement the business development plan, increasing revenue by 110%
