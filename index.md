@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Khadijah Sajarana
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:rana.khadijah@gmail.com
+  text: rana.khadijah@gmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://www.linkedin.com/in/khadijahsajarana/
+  text: https://www.linkedin.com/in/khadijahsajarana/
 ---
 
 # Wode **Ni**
@@ -23,32 +23,14 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Ritsumeikan Asia Pacific University** `2019`
 
 ```
-Pittsburgh, PA
+Beppu, Japan
 ```
 
-- Ph.D. in Software Engineering
+- BBA
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 ## Publications
 
