@@ -17,30 +17,30 @@ Results-driven data analyst with a strong passion for digital transformation and
 
 **Key Skills:**
 
-<table style="border-collapse: separate; border-spacing: 10px;">
+<table style="border-collapse: separate; border-spacing: 30px;">
   <tr>
-    <td>- Native-level English</td>
-    <td>- Data Story Telling</td>
-    <td>- Project Management</td>
-    <td>- Google Cloud Platform (GCP)</td>
+    <td>✓ Native-level English</td>
+    <td>✓ Data Story Telling</td>
+    <td>✓ Project Management</td>
+    <td>✓ Google Cloud Platform (GCP)</td>
   </tr>
   <tr>
-    <td>- Native-level Indonesian</td>
-    <td>- Machine Learning</td>
-    <td>- BI Tools</td>
-    <td>- SQL</td>
+    <td>✓ Native-level Indonesian</td>
+    <td>✓ Machine Learning</td>
+    <td>✓ BI Tools</td>
+    <td>✓ SQL</td>
   </tr>
   <tr>
-    <td>- Professional-level Japanese</td>
-    <td>- Quantitative Analysis</td>
-    <td>- Tableau</td>
-    <td>- Python</td>
+    <td>✓ Professional-level Japanese</td>
+    <td>✓ Quantitative Analysis</td>
+    <td>✓ Tableau</td>
+    <td>✓ Python</td>
   </tr>
   <tr>
-    <td>- Stakeholders management</td>
-    <td>- Business Development</td>
-    <td>- Google BigQuery</td>
-    <td>- Salesforce Administration</td>
+    <td>✓ Stakeholders management</td>
+    <td>✓ Business Development</td>
+    <td>✓ Google BigQuery</td>
+    <td>✓ Salesforce Administration</td>
   </tr>
 </table>
 
