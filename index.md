@@ -17,25 +17,25 @@ Results-driven data analyst with a strong passion for digital transformation and
 
 **Key Skills:**
 
-- [x] Native-level English
-- [x] Data Story Telling
-- [x] Project Management
-- [x] Google Cloud Platform (GCP)
+- Native-level English
+- Data Story Telling
+- Project Management
+- Google Cloud Platform (GCP)
 
-- [x] Native-level Indonesian
-- [x] Machine Learning
-- [x] BI Tools
-- [x] SQL
+- Native-level Indonesian
+- Machine Learning
+- BI Tools
+- SQL
 
-- [x] Professional-level Japanese
-- [x] Quantitative Analysis
-- [x] Tableau
-- [x] Python
+- Professional-level Japanese
+- Quantitative Analysis
+- Tableau
+- Python
 
-- [x] Stakeholders management
-- [x] Business Development
-- [x] Google BigQuery
-- [x] Salesforce Administration
+- Stakeholders management
+- Business Development
+- Google BigQuery
+- Salesforce Administration
 
 ## Professional Experiences
 
