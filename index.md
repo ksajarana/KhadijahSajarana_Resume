@@ -2,7 +2,7 @@
 layout: cv
 title: Khadijah Sajarana
 homepage:
-  url: https://www.khadijahsajarana.com/
+  url: https://khadijahsajarana.devi.page/
   text: Personal Website
   
 ---
