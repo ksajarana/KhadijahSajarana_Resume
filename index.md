@@ -17,7 +17,7 @@ Results-driven data analyst with a strong passion for digital transformation and
 
 **Key Skills:**
 
-<table style="border-collapse: separate; border-spacing: 30px;">
+<table style="border-collapse: separate; border-spacing: 15px;">
   <tr>
     <td>✓ Native-level English</td>
     <td>✓ Data Story Telling</td>
