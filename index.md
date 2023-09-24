@@ -2,8 +2,8 @@
 layout: cv
 title: Khadijah Sajarana
 homepage:
-  url: https://www.linkedin.com/in/khadijahsajarana/
-  text: Linkedin Profile
+  url: http://khadijahsajarana.devi.page
+  text: Personal Website
   
 ---
 
@@ -17,31 +17,31 @@ Results-driven data analyst with a strong passion for digital transformation and
 
 **Key Skills:**
 
-✔ Native-level English
-✔ Data Story Telling
-✔ Project Management
-✔ Google Cloud Platform (GCP)
+- [x] Native-level English
+- [x] Data Story Telling
+- [x] Project Management
+- [x] Google Cloud Platform (GCP)
 
-✔ Native-level Indonesian
-✔ Machine Learning
-✔ BI Tools
-✔ SQL
+- [x] Native-level Indonesian
+- [x] Machine Learning
+- [x] BI Tools
+- [x] SQL
 
-✔ Professional-level Japanese
-✔ Quantitative Analysis
-✔ Tableau
-✔ Python
+- [x] Professional-level Japanese
+- [x] Quantitative Analysis
+- [x] Tableau
+- [x] Python
 
-✔ DWH management
-✔ Business Development
-✔ Google BigQuery
-✔ Salesforce Administration
+- [x] Stakeholders management
+- [x] Business Development
+- [x] Google BigQuery
+- [x] Salesforce Administration
 
 ## Professional Experiences
 
 **DATA ANALYST** - *Elementary Japan Co., Ltd., Japan* `December 2021 - current`
 
-*Recruited to this role to be in charge of all data-related projects for multiple companies within the same group*
+*Recruited to this role to be in charge of all data-related projects for multiple companies within the same group.* [*See demo project*](https://public.tableau.com/views/SalesandMarginDashboard-Demo/Home?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 - Developed predictive financial forecast models for a restaurant supplier in Taiwan with 30% improved accuracy, aiding informed decision-making and optimizing procurement strategies
 - Utilized **Excel, SQL, and Tableau** for exploratory data analysis on large datasets, reducing processing time by 85%. Leveraged AI functions to improve reporting and provide valuable insights for decision-making
@@ -60,7 +60,7 @@ Results-driven data analyst with a strong passion for digital transformation and
 - Standardized and managed client data, resulting in a 15% increase in accuracy for better decision-making
 - Built interactive dashboards using **Tableau, PowerBI, and QlikSense**, improving data accessibility by 80% for faster decision-making
 - Created bilingual technical training materials and delivered sessions to 100+ international clients 
-- Conducted sentiment analysis on 1,000,000+ tweets to gauge public perception of the government's Go-To Travel campaign during the Covid-19 pandemic, using various metrics and indicators 
+- Conducted sentiment analysis on 1,000,000+ tweets to gauge public perception of the government's Go-To Travel campaign during the Covid-19 pandemic, using various metrics and indicators. [*Read more*](https://www.magellanic-clouds.com/blocks/blog/hints/using_magellan_blocks_and_tableau_to_understand_trends_around_covid-19/)
 
 
 ## Personal Projects
@@ -78,6 +78,6 @@ Results-driven data analyst with a strong passion for digital transformation and
 
 **Key Achievements:** 
 
-- CEO of Global Business Leaders
-- Director of GBCC APU
-- Lead student researcher at Fundokin Shoyu Co., Ltd.
+- CEO of Global Business Leaders, the longest-running future global business leaders community in Japan.
+- Director of Global Business Case Challenge APU, the first international business case challenge in Japan. 
+- Lead student researcher at Fundokin Shoyu Co., Ltd., developed and launched a Honey Halal Soy Sauce in Japan. [*Learn more*](https://www.youtube.com/watch?v=i5KO-UH9EKY&themeRefresh=1)
