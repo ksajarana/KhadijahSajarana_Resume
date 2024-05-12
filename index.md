@@ -2,7 +2,7 @@
 layout: cv
 title: Khadijah Sajarana
 homepage:
-  url: https://khadijahsajarana.devi.page/
+  url: https://www.khadijahsajarana.com
   text: Personal Website
   
 ---
@@ -13,7 +13,7 @@ homepage:
 
 ## Summary
 
-Results-driven data analyst with a strong passion for digital transformation and leveraging new technologies to unlock the full potential of data-driven strategies. Skilled in collaborating with diverse teams and driving data-informed decision-making. Possesses 4 years of experience in IT solutions and over 7 years of leadership experience in managing diverse projects and events. Proficient in English, Japanese, and Bahasa Indonesia.
+Results-driven data analyst with a strong passion for digital transformation and leveraging new technologies to unlock the full potential of data-driven strategies. Skilled in digital transformation and data-driven decision-making. Possesses 4 years of experience in IT solutions and over 7 years of leadership experience in managing diverse projects and events. Proficient in English, Japanese, and Bahasa Indonesia.
 
 **Key Skills:**
 
@@ -47,7 +47,17 @@ Results-driven data analyst with a strong passion for digital transformation and
 
 ## Professional Experiences
 
-**DATA ANALYST** - *Elementary Japan Co., Ltd., Japan* `December 2021 - current`
+**DATA ANALYST / BI DEVELOPER** - *Azabu Group, Australia* `December 2021 - current`
+
+*Recruited to this role to be in charge of all data-related projects for restaurants within the group* 
+
+- As a Data Analyst, I analyze and interpret complex data sets to drive strategic decision-making and operational improvements, enhancing the delivery of exceptional Japanese-inspired hospitality experiences.
+- Collaborate with cross-functional teams to develop and implement robust data systems, including POS and other critical systems, significantly enhancing business efficiency and customer satisfaction.
+- Utilize advanced analytics to convert complex datasets from multiple systems into actionable insights, fostering strategic decisions and boosting operational efficiencies across the organization.
+
+
+
+**DATA ANALYST / BI DEVELOPER** - *Elementary Japan Co., Ltd., Japan* `December 2021 - current`
 
 *Recruited to this role to be in charge of all data-related projects for multiple companies within the same group.* [*See demo project*](https://public.tableau.com/views/SalesandMarginDashboard-Demo/Home?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
@@ -76,9 +86,9 @@ Results-driven data analyst with a strong passion for digital transformation and
 **BALI WITH BABO** `February 2023 - current`
 
 *A Bali travel and tour website.*
-- Design and implement the business development plan, increasing revenue by 110%
+- Design and implement the business development plan
 - Built the company’s [website](https://www.baliwithbabo.com), designed [business and promotional materials](https://ko-fi.com/s/1d9bd81c3b)
-- Lead the company's effort to expand the target market Internationally, resulting in 1000+ new engagements in the first 3 months 
+- Lead the company's effort to expand the target market Internationally, resulting in a 500% increase in bookings within the first year
 
 ## Education
 
@@ -86,6 +96,6 @@ Results-driven data analyst with a strong passion for digital transformation and
 
 **Key Achievements:** 
 
-- CEO of Global Business Leaders, the longest-running future global business leaders community in Japan.
+- CEO of [Global Business Leaders](https://www.gblprogram.com/), the longest-running future global business leaders community in Japan.
 - Director of Global Business Case Challenge APU, the first international business case challenge in Japan. 
 - Lead student researcher at Fundokin Shoyu Co., Ltd., developed and launched a Honey Halal Soy Sauce in Japan. [*Learn more*](https://www.youtube.com/watch?v=i5KO-UH9EKY&themeRefresh=1)
